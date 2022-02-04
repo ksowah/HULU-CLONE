@@ -8,7 +8,7 @@ import {
 
 function Header() {
   return (
-    <header className="flex flex-col sm:flex-row m-5 justify-between items-center h-auto">
+    <header className="flex flex-col sm:flex-row m-4 justify-between items-center h-auto">
         <div className="flex flex-grow justify-evenly max-w-2xl
                         mt-5
         ">
